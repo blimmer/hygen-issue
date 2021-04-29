@@ -1,0 +1,23 @@
+{
+  "name": "hygen-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blimmer/hygen-issue.git"
+  },
+  "keywords": [],
+  "author": "Ben Limmer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blimmer/hygen-issue/issues"
+  },
+  "homepage": "https://github.com/blimmer/hygen-issue#readme",
+  "devDependencies": {
+    "hygen": "^6.0.4"
+  }
+}
